@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Jean-Michel Julien -- Lead Developer 
+
+# THANKS
+
+    Thanks to all the people around me; your patience is deeply appreciated.
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
