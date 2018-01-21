@@ -7,7 +7,7 @@ Disrupt any illegal teenager gaming session that happens while everybody should 
 
 project--> [https://www.hackster.io/jmjulien/router-reboot-button-0df78d](https://www.hackster.io/jmjulien/router-reboot-button-0df78d)
 
-code --> [https://bitbucket.org/jmjulien/routerrebootbutton.git](https://bitbucket.org/jmjulien/routerrebootbutton.git)
+code --> [https://bitbucket.org/jmjulien/routerrebootbutton](https://bitbucket.org/jmjulien/routerrebootbutton.git)
 
 
 CKEasyWifiConfig
