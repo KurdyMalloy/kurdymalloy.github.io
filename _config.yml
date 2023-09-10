@@ -1,2 +1,8 @@
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+
+remote_theme: jekyll/hacker
+
+plugins:
+ - jekyll-remote-theme
+
 google_analytics: G-WLDNNG1NFZ
